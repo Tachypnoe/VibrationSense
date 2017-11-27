@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">VibrationSense</string>
+    <string name="MainScreen">измерение вибрационной чувствительности</string>
+    <string name="newMeasure">Новое измерение</string>
+    <string name="database">История измерений</string>
+    <string name="new_measure_text">Введите данные нового измерения</string>
+    <string name="new_id">ID/Имя пациента</string>
+    <string name="disease">Состояние</string>
+    <string name="miscData">Заметки</string>
+    <string name="measure">Значение</string>
+    <string name="area">В какой области производилось измерение?</string>
+    <string name="compare">Оценка чувствительности камертоном - время в секундах</string>
+    <string name="sensitivity">Субьективная чувствительность</string>
+    <string name="done">Данные измерения успешно сохранены</string>
+    <string name="toExactMeasure">Далее</string>
+    <string name="Start">Старт</string>
+    <string name="vibrateExplain">Приставьте телефон ребром к костному выступу обследуемого.
+                                Нажмите кнопку "Старт", когда Вы и обследуемый будете готовы к
+                                обследованию.</string>
+    <string name="vibrateResults">Попросите обследуемого оценить от 1 до 5 силу вибрации, которую
+                                он почувствовал.</string>
+    <string name="save">Сохранить</string>
+    <string name="retry">Повторить</string>
+    <string name="Blank" />
+    <string name="age">Возраст</string>
+    <string name="gender">Пол</string>
+
+    <string name="gender_male">Мужской</string>
+    <string name="gender_female">Женский</string>
+    <string name="choose_multiple">Удалить несколько</string>
+    <string name="delete_all">Очистить всю историю</string>
+    <string-array name="array_gender_options">
+        <item>@string/gender_female</item>
+        <item>@string/gender_male</item>
+    </string-array>
+    <string name="toasterWarning">Пожалуйста, убедитесь в правильности введенных данных.
+                                  Поля могут содержать только буквы, цифры и пробелы.</string>
+    <string name="toaster_deleteWarning">Пожалуйста, убедитесь в правильности введенных данных.
+                                  Нужно вводить числа, разделяемые ТОЛЬКО запятой.</string>
+    <string name="popupDelete">Введите ID записей, которые нужно убратью Разделяйте числа только запятой.</string>
+    <string name="cancel">Отмена</string>
+</resources>
